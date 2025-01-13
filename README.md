@@ -1,6 +1,8 @@
-# COMANDOS NECESSARIOS:
+# Projeto que simula compras simultâneas da loja Kabum, utilizando conceitos de níveis de isolamento em sistemas distribuidos. O programa realiza simulações com locks pessimistas e otimistas.
 
-## Os JSONS de cliente, categorias e pedidos foram inseridos manualmente no SimuladorPedidos.java.
+## COMANDOS NECESSARIOS:
+
+### Os JSONS de cliente, categorias e pedidos foram inseridos manualmente no SimuladorPedidos.java.
 
 1. INICIAR KABUMAPPLICATION.JAVA
 2. INICIAR SIMULADORPEDIDOS.JAVA
